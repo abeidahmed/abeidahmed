@@ -20,6 +20,7 @@ I'm a **full-stack web-developer** with an experience of over 2 years with a foc
 | [Component template](https://tailwind-component.herokuapp.com/) | https://github.com/abeidahmed/component-template | Rails, Vuejs |
 | [Feedback app](https://feeder-fish.herokuapp.com/)              | https://github.com/abeidahmed/feedback-app       | Rails, React |
 | [Stylish vscode](https://stylish-vscode.vercel.app/)            | https://github.com/abeidahmed/stylish-vscode     | Nextjs       |
+| [Easy hues](https://infinite-oasis-17383.herokuapp.com/)        | https://github.com/abeidahmed/easy-hues          | React        |
 | Twitter clone                                                   | https://github.com/abeidahmed/twitter-clone      | Rails, React |
 
 ## Currently working on
