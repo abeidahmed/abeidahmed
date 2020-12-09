@@ -30,5 +30,6 @@ I'm a **full-stack web-developer** with an experience of over 2 years with a foc
 
 ## How to contact me?
 
-![Twitter handle](https://img.shields.io/badge/iamhawaabi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)
-![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+- [Twitter](https://twitter.com/iamhawaabi)
+- [Linkedin](https://www.linkedin.com/in/abeid-ahmed-b21882172/)
+- [abeidahmed92@gmail.com](mailto:abeidahmed92@gmail.com)
