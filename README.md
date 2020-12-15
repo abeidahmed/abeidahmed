@@ -21,6 +21,7 @@ I'm a **full-stack web-developer** with an experience of over 2 years with a foc
 | [Feedback app](https://feeder-fish.herokuapp.com/)              | https://github.com/abeidahmed/feedback-app       | Rails, React |
 | [Stylish vscode](https://stylish-vscode.vercel.app/)            | https://github.com/abeidahmed/stylish-vscode     | Nextjs       |
 | [Easy hues](https://infinite-oasis-17383.herokuapp.com/)        | https://github.com/abeidahmed/easy-hues          | React        |
+| [Sassy-lib](https://www.npmjs.com/package/sassy-lib)            | https://github.com/abeidahmed/sassy-lib          | Sass         |
 | Twitter clone                                                   | https://github.com/abeidahmed/twitter-clone      | Rails, React |
 
 ## Currently working on
