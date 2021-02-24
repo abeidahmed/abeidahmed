@@ -6,6 +6,10 @@ writing clean and expressive code, and I also like writing `Ruby` a lot. It may
 sound too straight, but the fact is that I would love to get paid for writing `Ruby`
 code.
 
+## Portfolio
+
+Click [here](https://abeidahmed.me/) to view my portfolio.
+
 ## Stacks that I love working with
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
