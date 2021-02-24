@@ -1,6 +1,10 @@
 # ![Hello, I'm Abeid Ahmed](./assets/image.png)
 
-I'm a **full-stack web-developer** with an experience of over 2 years with a focus on `Ruby`, `Ruby on Rails`, `JavaScript` and `React`. I absolutely love writing clean and expressive code, and I also like writing `Ruby` a lot. It may sound too straight, but the fact is that I would love to get paid for writing `Ruby` code.
+I'm a **full-stack web-developer** with an experience of over 2 years with a
+focus on `Ruby`, `Ruby on Rails`, `JavaScript` and `React`. I absolutely love
+writing clean and expressive code, and I also like writing `Ruby` a lot. It may
+sound too straight, but the fact is that I would love to get paid for writing `Ruby`
+code.
 
 ## Stacks that I love working with
 
@@ -17,18 +21,12 @@ I'm a **full-stack web-developer** with an experience of over 2 years with a foc
 
 | Project name                                                    | Github repo                                      | Built with   |
 | --------------------------------------------------------------- | ------------------------------------------------ | ------------ |
+| [rails_heroicon](https://rubygems.org/gems/rails_heroicon)      | https://github.com/abeidahmed/rails-heroicon     | Ruby         |
 | [Component template](https://tailwind-component.herokuapp.com/) | https://github.com/abeidahmed/component-template | Rails, Vuejs |
 | [Feedback app](https://feeder-fish.herokuapp.com/)              | https://github.com/abeidahmed/feedback-app       | Rails, React |
 | [Stylish vscode](https://stylish-vscode.vercel.app/)            | https://github.com/abeidahmed/stylish-vscode     | Nextjs       |
 | [Easy hues](https://infinite-oasis-17383.herokuapp.com/)        | https://github.com/abeidahmed/easy-hues          | React        |
 | [Sassy-lib](https://www.npmjs.com/package/sassy-lib)            | https://github.com/abeidahmed/sassy-lib          | Sass         |
-| Twitter clone                                                   | https://github.com/abeidahmed/twitter-clone      | Rails, React |
-
-## Currently working on
-
-| Project name | Github repo                           | Building with                          |
-| ------------ | ------------------------------------- | -------------------------------------- |
-| yellit       | https://github.com/abeidahmed/yell-it | Rails, Stimulus, Alpinejs, Tailwindcss |
 
 ## How to contact me?
 
