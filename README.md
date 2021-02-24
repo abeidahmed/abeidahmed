@@ -31,5 +31,5 @@ code.
 ## How to contact me?
 
 - [Twitter](https://twitter.com/iamhawaabi)
-- [Linkedin](https://www.linkedin.com/in/abeid-ahmed-b21882172/)
+- [Linkedin](https://www.linkedin.com/in/abeidahmed/)
 - [abeidahmed92@gmail.com](mailto:abeidahmed92@gmail.com)
