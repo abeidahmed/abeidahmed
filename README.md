@@ -26,17 +26,18 @@ the years.
 
 ## Featured projects
 
-| Project name                                                    | Github repo                                      | Built with   |
-| --------------------------------------------------------------- | ------------------------------------------------ | ------------ |
-| [rails_heroicon](https://rubygems.org/gems/rails_heroicon)      | https://github.com/abeidahmed/rails-heroicon     | Ruby         |
-| [Component template](https://tailwind-component.herokuapp.com/) | https://github.com/abeidahmed/component-template | Rails, Vuejs |
-| [Feedback app](https://feeder-fish.herokuapp.com/)              | https://github.com/abeidahmed/feedback-app       | Rails, React |
-| [Stylish vscode](https://stylish-vscode.vercel.app/)            | https://github.com/abeidahmed/stylish-vscode     | Nextjs       |
-| [Easy hues](https://infinite-oasis-17383.herokuapp.com/)        | https://github.com/abeidahmed/easy-hues          | React        |
-| [Sassy-lib](https://www.npmjs.com/package/sassy-lib)            | https://github.com/abeidahmed/sassy-lib          | Sass         |
+| Project name                                                    | Github repo                                      | Built with    |
+| --------------------------------------------------------------- | ------------------------------------------------ | ------------- |
+| [rails_heroicon](https://rubygems.org/gems/rails_heroicon)      | https://github.com/abeidahmed/rails-heroicon     | Ruby          |
+| [Component template](https://tailwind-component.herokuapp.com/) | https://github.com/abeidahmed/component-template | Rails, Vue.js |
+| [Feedback app](https://feeder-fish.herokuapp.com/)              | https://github.com/abeidahmed/feedback-app       | Rails, React  |
+| [Stylish VScode](https://stylish-vscode.vercel.app/)            | https://github.com/abeidahmed/stylish-vscode     | Next.js       |
+| [Easy hues](https://infinite-oasis-17383.herokuapp.com/)        | https://github.com/abeidahmed/easy-hues          | React         |
+| [Sassy-lib](https://www.npmjs.com/package/sassy-lib)            | https://github.com/abeidahmed/sassy-lib          | Sass          |
 
 ## How to contact me?
 
 - [Twitter](https://twitter.com/iamhawaabi)
 - [Linkedin](https://www.linkedin.com/in/abeidahmed/)
 - [abeidahmed92@gmail.com](mailto:abeidahmed92@gmail.com)
+- [Portfolio](https://abeidahmed.me/)
