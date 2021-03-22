@@ -1,14 +1,15 @@
 # ![Hello, I'm Abeid Ahmed](./assets/image.png)
 
-I'm a **full-stack web-developer** with an experience of over 2 years with a
-focus on `Ruby`, `Ruby on Rails`, `JavaScript` and `React`. I absolutely love
-writing clean and expressive code, and I also like writing `Ruby` a lot. It may
-sound too straight, but the fact is that I would love to get paid for writing `Ruby`
-code.
+I’m a **full-stack software engineer** with experience of over 2 years. I have
+been leveraging technologies such as Ruby, Ruby on Rails, Javascript, React,
+StimulusJS, and the likes of others to solve real-world problems.
+I love writing clean and expressive code. It may sound too straightforward, but
+the fact is that I would love to get paid for writing any of the
+languages/frameworks mentioned above.
 
-## Portfolio
-
-Click [here](https://abeidahmed.me/) to view my portfolio.
+If you're interested in hiring me or working with me, you can [visit my portfolio](https://abeidahmed.me)
+to better understand the skills and the experience that I have accumulated over
+the years.
 
 ## Stacks that I love working with
 
