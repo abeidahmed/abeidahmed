@@ -3,9 +3,11 @@
 I’m a **full-stack software engineer** with experience of over 2 years. I have
 been leveraging technologies such as Ruby, Ruby on Rails, Javascript, React,
 StimulusJS, and the likes of others to solve real-world problems.
-I love writing clean and expressive code. It may sound too straightforward, but
-the fact is that I would love to get paid for writing any of the
-languages/frameworks mentioned above.
+
+When I’m free, you can find me contributing to open-source software. I am
+also the author of two ruby gems ([rails_heroicon](https://github.com/abeidahmed/rails-heroicon)
+and [rails_feather](https://github.com/abeidahmed/rails_feather)) which are being
+used by hundreds of Ruby on Rails developers.
 
 If you're interested in hiring me or working with me, you can [visit my portfolio](https://abeidahmed.me)
 to better understand the skills and the experience that I have accumulated over
